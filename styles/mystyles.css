@@ -1,0 +1,31 @@
+.azeret-mono-style {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+}
+
+.mainhead {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    margin: 20px 20px;
+}
+
+.mainhead>a {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+.btn1 {
+    padding: 10px 20px 10px 20px;
+    color: rgb(13, 19, 33);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    border-radius: 8px;
+}
+
